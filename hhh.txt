@@ -1,0 +1,4 @@
+Python教程
+http://c.biancheng.net/python/
+此函数的基本语法格式为
+定打开文件的模式必须为
